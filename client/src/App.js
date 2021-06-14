@@ -8,7 +8,7 @@ import './App.css';
 const App = () => {
   return (
     <Router>
-      <div className='App'>learn react</div>
+      <h1 className='App'>Fibonacci Calculator</h1>
       <div className='App'>
         <Link to='/'>Home</Link>
         <Link to='/otherpage'>Other Page</Link>
